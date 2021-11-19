@@ -5,4 +5,5 @@ Captures: <br>
 Summoner name <br>
 Level <br>
 Account ID <br>
-Region
+Region <br>
+Last Change (Date)
