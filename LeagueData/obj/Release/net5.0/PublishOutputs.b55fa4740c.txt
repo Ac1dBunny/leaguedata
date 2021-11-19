@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\LeagueData\LeagueData\bin\publish\LeagueData.exe
+C:\Users\admin\source\repos\LeagueData\LeagueData\bin\publish\LeagueData.dll
+C:\Users\admin\source\repos\LeagueData\LeagueData\bin\publish\LeagueData.deps.json
+C:\Users\admin\source\repos\LeagueData\LeagueData\bin\publish\LeagueData.runtimeconfig.json
+C:\Users\admin\source\repos\LeagueData\LeagueData\bin\publish\LeagueData.pdb
+C:\Users\admin\source\repos\LeagueData\LeagueData\bin\publish\Newtonsoft.Json.dll
+C:\Users\admin\source\repos\LeagueData\LeagueData\bin\publish\RiotSharp.dll
