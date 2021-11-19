@@ -19,11 +19,13 @@ namespace LeagueData
                 var level = summoner.Level;
                 var accountId = summoner.AccountId;
                 var region = summoner.Region;
+                var revision = summoner.RevisionDate;
 
                 Console.WriteLine("Summoner name is: " + userName);
                 Console.WriteLine("Your level is: " + level);
                 Console.WriteLine("Your account ID is: " + accountId);
                 Console.WriteLine("Your region is: " + region);
+                Console.WriteLine("Last activity date: " + revision);
 
             }
             catch (RiotSharpException)
